@@ -9,7 +9,7 @@ API_SECRET = "QrPiz5LYJS20oRJZb3JX7W5Ts7Bd7WrZ36PlG389JaHrfxHv0Th0Jd0uTZd345cB"
 
 # Token do bot do Telegram e chat_id
 TELEGRAM_TOKEN = "7433321732:AAEFuPHV7nTsMEsCnglkYWGbCvJNoxiKe1g"
-CHAT_ID = "SEU_CHAT_ID_AQUI"  # Substitua pelo seu chat_id
+CHAT_ID = "1722310941"  # Substitua pelo seu chat_id
 
 client = Client(API_KEY, API_SECRET)
 
