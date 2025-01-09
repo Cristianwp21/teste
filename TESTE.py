@@ -1,7 +1,7 @@
 from telegram import Bot
 
 TELEGRAM_TOKEN = "7676787815:AAHLOCqbmuQgJN8NDgxvsgnyoH_nMhWCbyM"
-CHAT_ID = "1722310941"  # Chat ID obtido do getUpdates
+CHAT_ID = "1722310941"  # Seu chat ID obtido
 
 def enviar_alerta(mensagem):
     try:
